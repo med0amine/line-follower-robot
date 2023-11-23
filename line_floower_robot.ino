@@ -1,3 +1,8 @@
+/*
+_name_: line follower robot
+_autor_: Mohamed Amine Ben Ammar
+_date_: 26/04/2020
+*/
 
 int sensor1 = 8;      
 int sensor2 = 9;
